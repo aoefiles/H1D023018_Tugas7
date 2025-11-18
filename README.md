@@ -18,7 +18,7 @@ Ini adalah proyek tugas 7 untuk mata kuliah Pemrograman Mobile. Proyek ini mengi
 
 | Side Menu (Drawer) | Halaman About |
 | :---: | :---: |
-| ![Side Menu](3.png) | ![About Page](4png) |
+| ![Side Menu](3.png) | ![About Page](4.png) |
 
 ## 📁 Penjelasan Tiap Bagian (Struktur Kode)
 
